@@ -60,4 +60,4 @@ Tools & Techniques Used:
 5. Conditional Formatting
 
 Files included:
-Sales Performance analysis.xlsx- Dataset, analysis, and dashboard
+Sales_Performance_analysis.xlsx- Dataset, analysis, and dashboard
