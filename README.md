@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis:
+# Sales_Performance_Analysis:
 
 Project Overview:
 This project analyzes sales transaction data using Microsoft Excel to evaluate business performance across products, countries, customer segments, time periods, and discount levels.
